@@ -5,7 +5,7 @@ parentId:
 id: "vn78j9y9msrd0lkr"
 title: "Draft requirements spec"
 type: "task"
-status: "todo"
+status: "in-progress"
 priority: "medium"
 start: "2026-09-11"
 due: "2026-09-25"
@@ -15,7 +15,7 @@ tags: []
 subtaskIds: []
 dependencies: ["dxrpspwlmsrd0lkm"]
 createdAt: "2026-08-13T10:12:45.243Z"
-updatedAt: "2026-08-13T10:12:45.243Z"
+updatedAt: "2026-08-13T11:16:59.476Z"
 timeEstimate: 20
 ---
 

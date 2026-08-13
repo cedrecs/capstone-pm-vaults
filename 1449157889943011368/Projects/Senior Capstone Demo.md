@@ -10,7 +10,7 @@ customFields: []
 teamMembers: ["Alice", "Bob", "Charlie"]
 savedViews: []
 createdAt: "2026-08-13T10:12:45.219Z"
-updatedAt: "2026-08-13T11:16:02.386Z"
+updatedAt: "2026-08-13T11:16:59.476Z"
 ---
 
 # 🎓 Senior Capstone Demo
